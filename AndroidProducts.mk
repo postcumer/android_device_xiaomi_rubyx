@@ -4,4 +4,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aicp_rubyx.mk
+    $(LOCAL_DIR)/derp_rubyx.mk
